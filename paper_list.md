@@ -26,6 +26,8 @@ Here we will list papers that maybe discussed, but you are welcome to add new pa
 
 ## Data
 * [Benchmark Dataset for Automatic Damaged Building Detection from Post-Hurricane Remotely Sensed Imagery](https://arxiv.org/pdf/1812.05581.pdf)
+* [ImageNet: A Large-Scale Hierarchical Image Database](http://www.image-net.org/papers/imagenet_cvpr09.pdf)
+
 
 ## Network Architecture
 * [FCN - Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1411.4038)
